@@ -47,6 +47,13 @@ and open the template in the editor.
     background-image: url("../img/plus.png");
 }
 
+body{
+    background-color: blue;
+}
+
+p{
+    color: cadetblue;
+}
 
 
 
